@@ -2,7 +2,7 @@
 ___  
 ## [Modal/Infinite Scroll Live Demo](https://stirring-churros-bfe63c.netlify.app/)   
 ___
-## [Walet Microservice (*back-end*)](https://wallet-service-t4s5.onrender.com/)
+## [Walet Microservice (*back-end*) Live Demo](https://wallet-service-t4s5.onrender.com/)
 ## [Wallet Service (*client side app that consumes wallet microservice*) Live Demo](https://verdant-fudge-c8ee20.netlify.app/)   
   
 
